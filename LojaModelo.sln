@@ -5,6 +5,8 @@ VisualStudioVersion = 17.7.34221.43
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LojaModelo.Models", "LojaModelo.Models\LojaModelo.Models.csproj", "{E8B46A65-6992-4793-A030-B5435C7A5854}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LojaModelo.DAL", "LojaModelo.DAL\LojaModelo.DAL.csproj", "{5780EB0F-CC72-44C2-900A-D08857D3676F}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{E8B46A65-6992-4793-A030-B5435C7A5854}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E8B46A65-6992-4793-A030-B5435C7A5854}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E8B46A65-6992-4793-A030-B5435C7A5854}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5780EB0F-CC72-44C2-900A-D08857D3676F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5780EB0F-CC72-44C2-900A-D08857D3676F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5780EB0F-CC72-44C2-900A-D08857D3676F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5780EB0F-CC72-44C2-900A-D08857D3676F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
